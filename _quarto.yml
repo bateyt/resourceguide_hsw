@@ -1,0 +1,37 @@
+project:
+  type: book
+  output-dir: docs
+  
+book:
+  title: "Pathway Resource Guide"
+  subtitle: "Health Sciences and Wellness"
+  author: "LCC Advising Hub"
+  date: "last-modified"
+  date-format: iso
+  number-depth: 1
+  chapters:
+    - index.qmd
+    - cds.qmd
+    - health-fitness.qmd
+    - medical-assisting.qmd
+    - nursing.qmd
+    - pre-dental.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: flatly
+  pdf:
+    documentclass: scrreprt
+  docx:
+    toc: true
+    section-numbers: false
+    highlight-style: github
+
+reference-location: margin
+citation-location: margin
+
+editor: visual
+

@@ -1,0 +1,15 @@
+# About {.unnumbered}
+
+This is a resource guide for advisors, faculty mentors, and students within the [Health Sciences and Wellness Pathway](https://lowercolumbia.edu/programs/health.php) at Lower Columbia College.[^index-1]
+
+[^index-1]: [View .pdf](Pathway-Resource-Guide.pdf)
+
+For more resources, please see the [General Transfer Resource Guide](https://bateyt.github.io/resourceguide_gentransfer) or explore LCC's other [Career Pathways](https://lowercolumbia.edu/programs/index.php).
+
+## Usage
+
+The following chapters provide career information and resources and links to related departments and programs at the most common transfer institution's for LCC students.
+
+## Questions and Feedback
+
+Please send questions, feedback, and content requests to [Trey Batey](mailto:tbatey@lowercolumbia.edu). *Alternatively, this could be a link to an online form.*
